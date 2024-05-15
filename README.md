@@ -1,2 +1,2 @@
 # descomplicando-kubernetes
-Curso Kubernetes Essentials! excelente e 0800 do linuxtips.io
+Curso Kubernetes Essentials! excelente e 0800! Disponível na plataforma <https://www.linuxtips.io/>
